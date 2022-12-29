@@ -2,9 +2,9 @@
   <footer>
     <Logo />
     <a
-      href="https://github.com/ParkYoungWoong"
+      href="https://github.com/eun210818"
       target="_blank">      
-      (c){{ new Date().getFullYear() }} HEROPY
+      (c){{ new Date().getFullYear() }} taeYeon
     </a>
   </footer>
 </template>
