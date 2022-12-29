@@ -14,7 +14,7 @@
 
 <style lang="scss" scoped>
   .container{padding-top:40px;}
-  h1{line-height:1; font-family:'Oswald',sans-serif; font-size:30px;
+  h1{line-height:1; font-family:'Oswald',sans-serif; font-size:80px;
     span{color:$primary;}
   }
   p{margin:30px 0; color:$gray-600;}
